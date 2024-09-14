@@ -1,0 +1,10 @@
+name: shiny_cbb
+title:
+username: matthewwilton
+account: matthewwilton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12518246
+bundleId: 9101640
+url: https://matthewwilton.shinyapps.io/shiny_cbb/
+version: 1
